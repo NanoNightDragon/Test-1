@@ -3,9 +3,15 @@
 
 using namespace std;
 
+class Branch
+{
+public:
+    Branch(){}
+};
+
 void main()
 {
-    cout << "3td";
+
     int a = 2;
     _getch();
 }
