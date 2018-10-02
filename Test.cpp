@@ -6,6 +6,7 @@ using namespace std;
 class Branch
 {
 public:
+    
     Branch(){cout << "kek";}
 };
 
