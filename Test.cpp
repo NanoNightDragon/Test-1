@@ -3,16 +3,8 @@
 
 using namespace std;
 
-class A
-{
-public:
-    void F(char*);
-};
-
 void main()
 {
-    cout << "git test";
-    cin.get();
-
+    cout << "3td";
     _getch();
 }
