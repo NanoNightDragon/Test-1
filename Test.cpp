@@ -7,6 +7,7 @@ class Branch
 {
 public:
     Branch(){}
+    ~Branch(){}
 };
 
 void main()
