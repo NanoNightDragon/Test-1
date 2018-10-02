@@ -7,8 +7,8 @@ using namespace std;
 class Branch
 {
 public:
-    
-    Branch(){cout << "kek";}
+
+    Branch(){cout << "kek";cout << "lol";}
 };
 class A:public Branch
 {
