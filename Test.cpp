@@ -10,6 +10,11 @@ public:
     
     Branch(){cout << "kek";}
 };
+class A:public Branch
+{
+    public:
+    A(){}
+};
 
 void main()
 {
